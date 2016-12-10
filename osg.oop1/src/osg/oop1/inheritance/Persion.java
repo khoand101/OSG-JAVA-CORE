@@ -2,6 +2,7 @@ package osg.oop1.inheritance;
 
 /**
  * @author KhoaND02
+ * class, contructor, instnce
  *
  */
 public class Persion {
